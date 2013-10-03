@@ -11,5 +11,6 @@ public class HelloWorld {
         System.out.println("Hej commit0");
         System.out.println("Hej, commit1");
         System.out.println("Hej commit2");
+	System.out.println("Hef from other commiter");
     }
 }
