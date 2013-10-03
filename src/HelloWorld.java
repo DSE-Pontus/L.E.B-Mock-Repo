@@ -8,7 +8,8 @@
 public class HelloWorld {
 
     public static void main(String[] args){
-        System.out.println("Hello!");
+        System.out.println("Hej commit0");
         System.out.println("Hej, commit1");
+        System.out.println("Hej commit2");
     }
 }

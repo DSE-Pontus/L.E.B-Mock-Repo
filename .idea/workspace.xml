@@ -4,7 +4,7 @@
     <list default="true" id="0225c8dc-703d-42e5-a77e-e56321818c67" name="Default" comment="" />
     <ignored path="Mock-Repo.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/HelloWorld.java" changelist="0225c8dc-703d-42e5-a77e-e56321818c67" time="1380483418699" ignored="false" />
+    <file path="/HelloWorld.java" changelist="0225c8dc-703d-42e5-a77e-e56321818c67" time="1380530936889" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,7 @@
       <file leaf-file-name="HelloWorld.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="40" selection-start="302" selection-end="302" vertical-scroll-proportion="0.21177803">
+            <state line="12" column="42" selection-start="353" selection-end="353" vertical-scroll-proportion="0.23103058">
               <folding />
             </state>
           </provider>
@@ -120,8 +120,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -132,6 +130,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -378,7 +378,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="40" selection-start="302" selection-end="302" vertical-scroll-proportion="0.21177803">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="42" selection-start="353" selection-end="353" vertical-scroll-proportion="0.23103058">
           <folding />
         </state>
       </provider>
